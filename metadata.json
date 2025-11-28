@@ -1,0 +1,7 @@
+{
+  "name": "Nihongo Talk",
+  "description": "Real-time Japanese conversation practice agent powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
